@@ -1,4 +1,4 @@
-package hello_world;
+package cn.codingxiaxw.helloword;
 
 /**
  * Hello world!
